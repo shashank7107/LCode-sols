@@ -28,11 +28,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shashank7107/LCode-sols/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/shashank7107/LCode-sols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shashank7107/LCode-sols/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shashank7107/LCode-sols/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/shashank7107/LCode-sols/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shashank7107/LCode-sols/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shashank7107/LCode-sols/tree/master/0344-reverse-string) |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shashank7107/LCode-sols/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shashank7107/LCode-sols/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
