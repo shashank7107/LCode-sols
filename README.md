@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shashank7107/LCode-sols/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/shashank7107/LCode-sols/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shashank7107/LCode-sols/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/shashank7107/LCode-sols/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shashank7107/LCode-sols/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shashank7107/LCode-sols/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
