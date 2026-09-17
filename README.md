@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shashank7107/LCode-sols/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shashank7107/LCode-sols/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/shashank7107/LCode-sols/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/shashank7107/LCode-sols/tree/master/0189-rotate-array) |
@@ -13,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shashank7107/LCode-sols/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shashank7107/LCode-sols/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/shashank7107/LCode-sols/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shashank7107/LCode-sols/tree/master/0189-rotate-array) |
