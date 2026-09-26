@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashank7107/LCode-sols/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shashank7107/LCode-sols/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/shashank7107/LCode-sols/tree/master/0053-maximum-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashank7107/LCode-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shashank7107/LCode-sols/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shashank7107/LCode-sols/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shashank7107/LCode-sols/tree/master/0283-move-zeroes) |
@@ -17,6 +18,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashank7107/LCode-sols/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shashank7107/LCode-sols/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/shashank7107/LCode-sols/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashank7107/LCode-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shashank7107/LCode-sols/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shashank7107/LCode-sols/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shashank7107/LCode-sols/tree/master/0344-reverse-string) |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashank7107/LCode-sols/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashank7107/LCode-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
