@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/shashank7107/LCode-sols/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shashank7107/LCode-sols/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shashank7107/LCode-sols/tree/master/0283-move-zeroes) |
+| [0912-sort-an-array](https://github.com/shashank7107/LCode-sols/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,10 +50,12 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/shashank7107/LCode-sols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shashank7107/LCode-sols/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/shashank7107/LCode-sols/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shashank7107/LCode-sols/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/shashank7107/LCode-sols/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,4 +90,24 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashank7107/LCode-sols/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shashank7107/LCode-sols/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shashank7107/LCode-sols/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shashank7107/LCode-sols/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shashank7107/LCode-sols/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shashank7107/LCode-sols/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
