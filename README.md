@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/shashank7107/LCode-sols/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/shashank7107/LCode-sols/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shashank7107/LCode-sols/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/shashank7107/LCode-sols/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashank7107/LCode-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shashank7107/LCode-sols/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashank7107/LCode-sols/tree/master/0215-kth-largest-element-in-an-array) |
@@ -23,6 +24,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashank7107/LCode-sols/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shashank7107/LCode-sols/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/shashank7107/LCode-sols/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/shashank7107/LCode-sols/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/shashank7107/LCode-sols/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashank7107/LCode-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shashank7107/LCode-sols/tree/master/0189-rotate-array) |
@@ -49,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shashank7107/LCode-sols/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashank7107/LCode-sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shashank7107/LCode-sols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shashank7107/LCode-sols/tree/master/0242-valid-anagram) |
@@ -118,4 +121,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashank7107/LCode-sols/tree/master/0215-kth-largest-element-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shashank7107/LCode-sols/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shashank7107/LCode-sols/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
