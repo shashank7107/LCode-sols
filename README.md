@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/shashank7107/LCode-sols/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashank7107/LCode-sols/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shashank7107/LCode-sols/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shashank7107/LCode-sols/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shashank7107/LCode-sols/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shashank7107/LCode-sols/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shashank7107/LCode-sols/tree/master/0053-maximum-subarray) |
@@ -85,6 +86,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shashank7107/LCode-sols/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shashank7107/LCode-sols/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashank7107/LCode-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/shashank7107/LCode-sols/tree/master/0704-binary-search) |
